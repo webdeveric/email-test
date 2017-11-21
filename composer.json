@@ -1,0 +1,13 @@
+{
+  "name": "webdeveric/email-test",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Eric King",
+      "email": "eric@webdeveric.com",
+      "homepage": "http://webdeveric.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {}
+}
